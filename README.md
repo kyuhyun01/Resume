@@ -1,6 +1,6 @@
 # 한림대학교 소프트웨어융합대학
 ---
-<img src=증명사진.jpg height=150 width=150>
+<img src=증명사진.jpg height=200 width=170>
 김규현
 
 ---
@@ -9,7 +9,7 @@
 전공 : 빅데이터 전공 
 
 관심분야   
-*  **백엔드 개발자**
+*  **백엔드 개발**
 * 보안
 * 네트워크 관리   
 
@@ -27,6 +27,11 @@
 |---|---|---|   
 |java 프로그래밍| java 언어 개요|3|
 |이산구조론| 이산구조론 개요|3|
+
+
+github address: [kyuhyun01][github] 
+
+[github]:http://github.com/kyuhyun01 
 
 
 
