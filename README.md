@@ -1,6 +1,6 @@
 # 한림대학교 소프트웨어융합대학
 ---
-<img src=증명사진.jpg height=200 width=170>
+<img src=증명사진.jpg height=220 width=180>
 김규현
 
 ---
@@ -35,6 +35,7 @@
 |java 프로그래밍2 | 객체지향언어 개요|3|
 |선형대수|선행대수 개요|3|
 
+---
 github address: [kyuhyun01][github] 
 
 [github]:http://github.com/kyuhyun01 
