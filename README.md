@@ -1,7 +1,7 @@
 # 한림대학교 소프트웨어융합대학
 ---
 <img src=증명사진.jpg height=220 width=180>
-김규현
+김규현 (Kim Kyu Hyun) 20학번
 
 ---
 
