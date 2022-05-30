@@ -13,7 +13,7 @@
 주전공: 빅데이터 전공   
 복수전공 : 스마트 IOT**     
 
-* email
+* email    
 rbghkrbgus@naver.com   
 
 -------------
@@ -24,11 +24,12 @@ rbghkrbgus@naver.com
 * 네트워크 관리   
 
 프로그래밍 언어 스킬
-1. C
-2. java
-3. python
-4. C++   
-
+* C   
+* java   
+* python   
+* C++      
+* HTML
+* DATABASE
 
 ---------------
 
@@ -44,9 +45,9 @@ rbghkrbgus@naver.com
 |java 프로그래밍2 | 객체지향언어 개요|3|
 |선형대수|선행대수 개요|3|
 
-외부활동
+*외부활동   
 
-삼성 멀티캠퍼스 DT입문교육
+*삼성 멀티캠퍼스 DT입문교육 20H
 ---
 github address: [kyuhyun01][github] 
 
