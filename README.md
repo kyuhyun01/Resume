@@ -1,14 +1,14 @@
 # 한림대학교 소프트웨어융합대학
 ---
 <img src=증명사진.jpg height=220 width=180>
-*이름
+* 이름
 **김규현 (Kim Kyu Hyun)** 
-*생년월일
+* 생년월일
 **2001.12.25**
-*소속
+* 소속
 **정보과학대학 소프트웨어융합학부 빅데이터 전공
-복수전공 : 스마트 IOT*
-*email
+복수전공 : 스마트 IOT**
+* email
 rbghkrbgus@naver.com
 ---
 
@@ -39,6 +39,7 @@ rbghkrbgus@naver.com
 |선형대수|선행대수 개요|3|
 
 외부활동
+
 삼성 멀티캠퍼스 DT입문교육
 ---
 github address: [kyuhyun01][github] 
