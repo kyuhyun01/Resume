@@ -1,13 +1,17 @@
-# 한림대학교 소프트웨어융합대학
+# Hello my name is kyuhyun
 ---
 <img src=증명사진.jpg height=220 width=180>
+
 * 이름   
-**김규현 (Kim Kyu Hyun)**    
+**김규현 (Kim Kyu Hyun)**   
+
 * 생년월일   
-**2001.12.25**   
+**2001.12.25**    
+
 * 소속   
 **정보과학대학 소프트웨어융합학부 빅데이터 전공
-복수전공 : 스마트 IOT**   
+복수전공 : 스마트 IOT**     
+
 * email
 rbghkrbgus@naver.com   
 
